@@ -1,5 +1,5 @@
 name: check-secrets-action
-author: mattdavis0351
+author: mattdavis03511
 description: validation action for this lab
 
 inputs:
