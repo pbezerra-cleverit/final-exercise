@@ -4,7 +4,7 @@ description: validation action for this lab
 
 inputs:
   your-secret:
-    description: Github PAT
+    description: Github PAT1
     required: true
   secrets-context:
     description: The GitHub Actions secrets context object
