@@ -3,8 +3,8 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  your-secret:
-    description: "my-github_pat"
+  my-github-pat:
+    description: Github PAT
     required: true
   secrets-context:
     description: The GitHub Actions secrets context object
