@@ -3,7 +3,7 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  my-github-pat:
+  your-secret:
     description: Github PAT
     required: true
   secrets-context:
